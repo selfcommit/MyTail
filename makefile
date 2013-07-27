@@ -6,3 +6,5 @@ CFlags=-std=c89 -o MyTail #Flags called with compiler
 all: MyTail
 	ls
 	ls
+clear: MyTail
+	rm MyTail
