@@ -1,5 +1,5 @@
 CC=gcc
-CFlags=-std=c89 -o
+CFlags=-std=c89
 
-all: finalTail
-	$(CC) $(CFlags) finalTail
+all: MyTail
+	$(CC) $(CFlags)
