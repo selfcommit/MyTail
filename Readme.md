@@ -1,5 +1,5 @@
 My own version of Tail, written in C
-
+By: Dan OBoyle
 *Make File builds binary*
 	
 	make all:
